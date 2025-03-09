@@ -1,0 +1,4 @@
+# Allowlist style .gitignore
+*    
+!*/
+!.gitignore
