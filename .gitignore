@@ -5,3 +5,6 @@
 
 !cfg/overrides/*
 !custom/mastercomfig-*
+!config.cfg
+!crouchjump.cfg
+!scoreboard.cfg
